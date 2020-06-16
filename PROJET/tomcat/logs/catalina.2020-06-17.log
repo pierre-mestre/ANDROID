@@ -1,0 +1,10 @@
+juin 17, 2020 12:18:54 AM org.apache.catalina.core.StandardServer await
+INFOS: Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+juin 17, 2020 12:18:54 AM org.apache.coyote.AbstractProtocol pause
+INFOS: Le gestionnaire de protocole ["http-bio-8080"] est mis en pause
+juin 17, 2020 12:18:54 AM org.apache.catalina.core.StandardService stopInternal
+INFOS: Arrêt du service [Catalina]
+juin 17, 2020 12:18:54 AM org.apache.coyote.AbstractProtocol stop
+INFOS: Arrêt du gestionnaire de protocole ["http-bio-8080"]
+juin 17, 2020 12:18:54 AM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destruction du gestionnaire de protocole ["http-bio-8080"]

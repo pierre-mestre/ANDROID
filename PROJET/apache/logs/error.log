@@ -1,0 +1,20 @@
+[Tue Jun 16 19:44:43.555566 2020] [ssl:warn] [pid 27904:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:44:43.652477 2020] [ssl:warn] [pid 27904:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:44:43.682426 2020] [mpm_winnt:notice] [pid 27904:tid 664] AH00455: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 configured -- resuming normal operations
+[Tue Jun 16 19:44:43.682426 2020] [mpm_winnt:notice] [pid 27904:tid 664] AH00456: Apache Lounge VC15 Server built: Apr 22 2020 11:11:00
+[Tue Jun 16 19:44:43.682426 2020] [core:notice] [pid 27904:tid 664] AH00094: Command line: 'd:\\pierre mestre\\desktop\\android\\projet\\apache\\bin\\httpd.exe -d D:/Pierre MESTRE/Desktop/ANDROID/PROJET/apache'
+[Tue Jun 16 19:44:43.686387 2020] [mpm_winnt:notice] [pid 27904:tid 664] AH00418: Parent: Created child process 11476
+[Tue Jun 16 19:44:44.097326 2020] [ssl:warn] [pid 11476:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:44:44.164656 2020] [ssl:warn] [pid 11476:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:44:44.184604 2020] [mpm_winnt:notice] [pid 11476:tid 672] AH00354: Child: Starting 150 worker threads.
+[Tue Jun 16 19:44:51.028545 2020] [mpm_winnt:crit] [pid 11476:tid 672] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Jun 16 19:46:06.734611 2020] [ssl:warn] [pid 21192:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:46:06.795283 2020] [core:warn] [pid 21192:tid 624] AH00098: pid file D:/Pierre MESTRE/Desktop/ANDROID/PROJET/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 16 19:46:06.800267 2020] [ssl:warn] [pid 21192:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:46:06.819783 2020] [mpm_winnt:notice] [pid 21192:tid 624] AH00455: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 configured -- resuming normal operations
+[Tue Jun 16 19:46:06.819783 2020] [mpm_winnt:notice] [pid 21192:tid 624] AH00456: Apache Lounge VC15 Server built: Apr 22 2020 11:11:00
+[Tue Jun 16 19:46:06.819783 2020] [core:notice] [pid 21192:tid 624] AH00094: Command line: 'd:\\pierre mestre\\desktop\\android\\projet\\apache\\bin\\httpd.exe -d D:/Pierre MESTRE/Desktop/ANDROID/PROJET/apache'
+[Tue Jun 16 19:46:06.821201 2020] [mpm_winnt:notice] [pid 21192:tid 624] AH00418: Parent: Created child process 13628
+[Tue Jun 16 19:46:07.166562 2020] [ssl:warn] [pid 13628:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:46:07.232611 2020] [ssl:warn] [pid 13628:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 16 19:46:07.252529 2020] [mpm_winnt:notice] [pid 13628:tid 652] AH00354: Child: Starting 150 worker threads.

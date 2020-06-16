@@ -1,0 +1,72 @@
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version du serveur:        Apache Tomcat/7.0.103
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Serveur compilé:       Mar 16 2020 08:34:15 UTC
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version du serveur:      7.0.103.0
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Nom de l'OS:           Windows 10
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version de l'OS:        10.0
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Architecture:          amd64
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Répertoire de Java:     C:\Program Files\Java\jdk1.8.0_212\jre
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Version de la JVM:           1.8.0_212-b10
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Fournisseur de la JVM:            Oracle Corporation
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_BASE:         D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: CATALINA_HOME:         D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Djava.util.logging.config.file=D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\conf\logging.properties
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Djdk.tls.ephemeralDHKeySize=2048
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Dignore.endorsed.dirs=
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Dcatalina.base=D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Dcatalina.home=D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFOS: Argument de la ligne de commande: -Djava.io.tmpdir=D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\temp
+juin 16, 2020 7:46:34 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFOS: La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path: [C:\Program Files\Java\jdk1.8.0_212\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\SlikSvn\bin;C:\Program Files\TortoiseSVN\bin;D:\MATHLAB\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\pierr\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\pierr\AppData\Local\Programs\Python\Python38-32\;C:\Users\pierr\AppData\Local\Microsoft\WindowsApps;;.]
+juin 16, 2020 7:46:34 PM org.apache.coyote.AbstractProtocol init
+INFOS: Initialisation du gestionnaire de protocole ["http-bio-8080"]
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 795 ms
+juin 16, 2020 7:46:34 PM org.apache.catalina.core.StandardService startInternal
+INFOS: Démarrage du service [Catalina]
+juin 16, 2020 7:46:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFOS: Starting Servlet Engine: Apache Tomcat/7.0.103
+juin 16, 2020 7:46:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\docs]
+juin 16, 2020 7:46:35 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+AVERTISSEMENT: La création de l'instance de SecureRandom pour le générateur d'id de session en utilisant [SHA1PRNG] a pris [156] millisecondes
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\docs] de l'application web s'est terminé en [350] ms
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\examples]
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\examples] de l'application web s'est terminé en [166] ms
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\host-manager]
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\host-manager] de l'application web s'est terminé en [30] ms
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\manager]
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\manager] de l'application web s'est terminé en [28] ms
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire d'application web [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\ROOT]
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Le déploiement du répertoire [D:\Pierre MESTRE\Desktop\ANDROID\PROJET\tomcat\webapps\ROOT] de l'application web s'est terminé en [24] ms
+juin 16, 2020 7:46:35 PM org.apache.coyote.AbstractProtocol start
+INFOS: Démarrage du gestionnaire de protocole ["http-bio-8080"]
+juin 16, 2020 7:46:35 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 632 ms
